@@ -1,3 +1,4 @@
 data/*
 src/github*
 pkg/linux*
+.coveralls.yml
