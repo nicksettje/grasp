@@ -1,5 +1,3 @@
-./data
-./src
-./pkg
-IGNOREME
-main
+./data/*
+./src/*
+./pkg/*
